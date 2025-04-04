@@ -61,9 +61,36 @@
             "providers": [
                 "Brackets\\Craftable\\CraftableServiceProvider"
             ]
-        },
-        "branch-alias": {
-            "dev-master": "8.1-dev"
         }
-    }
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/develop-algoritma/admin-auth.git"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/develop-algoritma/admin-listing.git"
+        },
+         {
+            "type": "vcs",
+            "url": "https://github.com/develop-algoritma/admin-translations.git"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/develop-algoritma/admin-ui.git"
+        },
+         {
+            "type": "vcs",
+            "url": "https://github.com/develop-algoritma/advanced-logger.git"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/develop-algoritma/media.git"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/develop-algoritma/translatable.git"
+        },        
+        ]
 }
