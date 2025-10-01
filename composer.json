@@ -1,6 +1,6 @@
 {
-    "name": "develop-algoritma/craftable",
-    "description": "Administration toolkit for Laravel 8 - starting point for developing administration interface",
+    "name": "eual8/craftable",
+    "description": "Administration toolkit for Laravel - starting point for developing administration interface",
     "keywords": [
         "craftable",
         "crud",
@@ -36,13 +36,13 @@
     ],
     "require": {
         "php": "^8.2",
-        "develop-algoritma/admin-auth": "dev-master",
-        "develop-algoritma/admin-listing": "dev-master",
-        "develop-algoritma/admin-translations": "dev-master",
-        "develop-algoritma/admin-ui": "dev-master",
-        "develop-algoritma/advanced-logger": "dev-master",
-        "develop-algoritma/media": "dev-master",
-        "develop-algoritma/translatable": "dev-master",
+        "eual8/admin-auth": "dev-master",
+        "eual8/admin-listing": "dev-master",
+        "eual8/admin-translations": "dev-master",
+        "eual8/admin-ui": "dev-master",
+        "eual8/advanced-logger": "dev-master",
+        "eual8/media": "dev-master",
+        "eual8/translatable": "dev-master",
         "laravel/legacy-factories": "^1.4",
         "spatie/laravel-permission": "^3.0|^4.0|^5.0|^6.0",
         "maatwebsite/excel": "^3.1"
@@ -63,31 +63,31 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/develop-algoritma/admin-auth.git"
+            "url": "https://github.com/eual8/admin-auth.git"
         },
         {
             "type": "vcs",
-            "url": "https://github.com/develop-algoritma/admin-listing.git"
+            "url": "https://github.com/eual8/admin-listing.git"
         },
          {
             "type": "vcs",
-            "url": "https://github.com/develop-algoritma/admin-translations.git"
+            "url": "https://github.com/eual8/admin-translations.git"
         },
         {
             "type": "vcs",
-            "url": "https://github.com/develop-algoritma/admin-ui.git"
+            "url": "https://github.com/eual8/admin-ui.git"
         },
          {
             "type": "vcs",
-            "url": "https://github.com/develop-algoritma/advanced-logger.git"
+            "url": "https://github.com/eual8/advanced-logger.git"
         },
         {
             "type": "vcs",
-            "url": "https://github.com/develop-algoritma/media.git"
+            "url": "https://github.com/eual8/media.git"
         },
         {
             "type": "vcs",
-            "url": "https://github.com/develop-algoritma/translatable.git"
+            "url": "https://github.com/eual8/translatable.git"
         }     
         ]
 }
